@@ -1,1 +1,1 @@
-ciao testImport
+print ('hello!')
